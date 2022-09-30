@@ -1,0 +1,157 @@
+body{
+    margin: 0 auto;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+}
+
+/* NAVBAR SECTION */
+
+.navbar-brand img{
+    width: 7%;
+}
+
+.navbar-link{
+    padding: 0 5%;
+}
+
+.nav-item a{
+    text-decoration: none;
+    padding: 0 10px;
+    font-family: 'Raleway', sans-serif;
+    color: black; 
+}
+
+.social-icon{
+    padding: 0 10px;
+    font-size: 2.5rem;
+}
+
+.icon{
+    padding: 0 2%;
+}
+
+/* INTRODUCTION SECTION */
+
+#introduction{
+    padding: 10% 10% 2%;
+}
+
+.home-left{
+    text-align: center;
+}
+
+.profile-img{
+    width: 50%;
+}
+
+.my-name{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.intro-title{
+    font-family: 'Indie Flower', cursive;
+    font-size: 29px;
+    padding-bottom: 2%;
+}
+
+.intro-p{
+    padding-bottom: 1.5%;
+}
+
+.btn-success, .btn-success:active, .btn-success:visited {
+    background-color: #0C6D70 !important;
+    border-radius: 0%;
+}
+
+.btn-success:hover{
+    background-color: #074547 !important
+}
+
+/* MY SKILLS SECTION*/
+#my-skills{
+    text-align: center;
+    padding: 4% 0;
+}
+
+.my-skills-left{
+    width: 60%;
+    padding: 2% 0 0 5%;
+}
+
+.my-skills-left h1{
+    font-family: 'Indie Flower', cursive;
+    padding-bottom: 2%;
+}
+
+.my-skills-left p{
+    text-align: left;
+    font-family: 'Raleway', sans-serif; 
+}
+
+.my-skills-right{
+    margin: 0 auto;
+    width: 40%;
+}
+
+.my-skills-right img{
+    width: 50%;
+}
+
+.skills-icon{
+    width: 6rem;
+    padding: 8%;
+}
+
+/* MY PROJECTS SECTION */
+
+.intro-project h1{
+    font-family: 'Indie Flower', cursive;
+}
+
+
+#my-projects{
+    text-align: center;
+    padding: 3% 5%;
+}
+
+#my-projects p{
+    text-align: left;
+    padding-top: 2%;
+}
+
+.modal-icon{
+    width: 20%;
+    padding: 5% 0;
+}
+
+.btn-qoute{
+    margin: 0 auto;
+    padding: 5%;
+}
+
+/* MY CONTACT SECTION */
+
+.input-contact{
+    padding: 0 5% 2%;
+}
+
+.input-form{
+    margin: 1.5%;
+    border-color: #0C6D70;
+}
+
+/* MY FOOTER SECTION */
+
+#footer{
+    background-color: #1C1B1F;
+    color: #ffff; 
+    text-align: center; 
+    padding: 1% ;
+}
+
+#footer p{
+    margin: 0 auto;
+}
